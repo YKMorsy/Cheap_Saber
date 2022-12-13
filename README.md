@@ -48,3 +48,7 @@ This design seems to be running well, but in the future, I would like to explore
 
 Overall, this design provides a fun way to play a game similar to Beat Saber, and at a fraction of the cost. The process of designing and implementing such a system was a great learning experience for me.
 
+Instructions:
+
+To launch the game, either run the main.py file, or go in the dist folder and run main.exe.
+

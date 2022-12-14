@@ -52,3 +52,7 @@ Instructions:
 
 To launch the game, either run the main.py file, or go in the dist folder and run main.exe.
 
+Source_Music folder contains all music that the .exe and script will run as .wav files. 
+
+Source_Images folder contains all images used in the design.
+

@@ -50,7 +50,7 @@ Overall, this design provides a fun way to play a game similar to Beat Saber, an
 
 Instructions:
 
-To launch the game, either run the main.py file, or go in the dist folder and run main.exe.
+To launch the game, either run the main.py file, or go in the dist folder and run main.exe. Pick your song, click play, and calibrate on a distinct object by pressing enter when object is in fram of rectangle.
 
 Source_Music folder contains all music that the .exe and script will run as .wav files. 
 
